@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnoushkaKareCode111
 - 👀 I’m interested in learning new technologies !
 - 🌱 I’m currently learning opencv and python
-- 📫 How to reach me mail:anukaushik1114@gmail.com
+- 📫 How to reach me mail:kaushikanoushka2004@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a weird blend of chronic anxiety and crazy party personality
 
